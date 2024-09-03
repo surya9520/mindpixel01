@@ -1,4 +1,4 @@
-const helper="https://mindpixelbackend.onrender.com/"
+const helper="https://mindpixelbackend.onrender.com"
 
 
 export default helper
