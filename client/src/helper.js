@@ -1,4 +1,4 @@
-const helper="mindpixel01.vercel.app"
+const helper="https://mindpixelbackend.onrender.com/"
 
 
 export default helper
